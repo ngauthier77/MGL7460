@@ -1,8 +1,7 @@
 Ligne 1
-Ligne 2
+Ligne 2 -> clone
 Ligne 3
 Ligne 4 -> Master
-
 
 
 
